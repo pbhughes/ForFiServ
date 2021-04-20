@@ -9,7 +9,6 @@ using System.Net.Http.Headers;
 
 namespace ForFiServ
 {
-    
     class Program
     {
         private readonly static string _TOKENURL = @"https://testidentity.csiweb.com"; //SOFTCODE THIS CHANGES WHEN GOING OT PRODUCTION
